@@ -1,28 +1,36 @@
-# 🎵 Music App UI Design - Drill Exercise
+# 🎧 Spotify-Inspired Music App UI Design (Figma)
 
-This project is part of a UI Design Drill from the UX Workshop Workbook (Episode 2). The goal was to practice interface design by creating a clean, user-friendly music player screen in Figma.
+This project is a part of a UI Design Drill Exercise (Episode 2) from the **UX Workshop Workbook**.  
+The goal was to practice building modern, clean user interfaces by recreating a **music player screen** similar to **Spotify** using Figma.
 
-## 📌 Project Overview
+## 📌 Overview
 
 - **Tool Used**: Figma  
-- **Exercise**: UI Drill – Music App Player Screen  
-- **Objective**: Apply visual hierarchy, alignment, spacing, and consistent styling.
-
-## ✨ Design Highlights
-
-- Clean layout with focus on usability
-- Consistent color palette and typography
-- Interactive playback controls
-- Playlist & song details with lyrics section
+- **Type**: UI Drill Practice – Music App  
+- **Theme**: Spotify-inspired mobile music player  
+- **Focus**: Visual hierarchy, spacing, consistency, icon layout, and color balancing
 
 ## 🖼️ Screenshots
 
-![Music App UI](music-ui.png)
+![Spotify UI Design](music-ui.jpg)
 
-## 🔗 Figma Link
 
-[View the design in Figma](https://www.figma.com/design/XVNH5F7mOBuY4acGMXqUDs?node-id=0-1)
+## 🔗 Figma Prototype
+
+[Click to View in Figma](https://www.figma.com/design/XVNH5F7mOBuY4acGMXqUDs?node-id=0-1)
+
+## ✍️ What I Learned
+
+- Designing with layout grids and spacing systems
+- Balancing iconography and readability
+- Recreating real-world UI to improve visual accuracy
+- Understanding minimalist mobile interface design
+
+## ⚠️ Disclaimer
+
+This design is created **purely for educational and non-commercial purposes** as part of a personal learning project.  
+It is **not affiliated with or endorsed by Spotify**.
 
 ---
 
-Feel free to provide feedback or suggestions!
+✨ Feedback and suggestions are always welcome!
